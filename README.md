@@ -2,9 +2,9 @@
 
 [![author](https://img.shields.io/badge/author-Abhishek-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/abhishekmali/)
 [![GitHub followers](https://img.shields.io/github/followers/AbhishekMali21?style=social)](https://github.com/AbhishekMali21?tab=followers)
-[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=social)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=social)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=social)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=social)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=social)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/network/members)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?logoColor=9cf&style=flat-square)
