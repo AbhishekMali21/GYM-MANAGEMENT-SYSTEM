@@ -1,5 +1,22 @@
 # GYM-MANAGEMENT-SYSTEM
 
+[![author](https://img.shields.io/badge/author-Abhishek-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/abhishekmali/)
+[![GitHub followers](https://img.shields.io/github/followers/AbhishekMali21?style=social)](https://github.com/AbhishekMali21?tab=followers)
+[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=social)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=social)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=social)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/watchers)
+
+![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?logoColor=9cf&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?logoColor=important&style=flat-square)
+
+[![GitHub issues](https://img.shields.io/github/issues/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=flat-square)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?style=flat-square)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbhishekMali21/GYM-MANAGEMENT-SYSTEM?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/pulls?q=is%3Apr+is%3Aclosed)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM.svg)](http://hits.dwyl.com/AbhishekMali21/GYM-MANAGEMENT-SYSTEM)
+
 ### ABOUT THE PROJECT
 Gym Management System is an administrative interface for the records of the gym, gym members, gym trainers, and payments.
 
